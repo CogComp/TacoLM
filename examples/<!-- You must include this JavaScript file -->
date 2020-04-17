@@ -1,0 +1,35 @@
+<!-- You must include this JavaScript file -->
+<script src="https://assets.crowd.aws/crowd-html-elements.js"></script>
+
+<!-- For the full list of available Crowd HTML Elements and their input/output documentation,
+      please refer to https://docs.aws.amazon.com/sagemaker/latest/dg/sms-ui-template-reference.html -->
+
+<!-- You must include crowd-form so that your task submits answers to MTurk -->
+<crowd-form answer-format="flatten-objects">
+
+  <crowd-instructions link-text="View instructions" link-type="button">
+    <short-summary>
+      <p>You will consider an event associated with a verb in a sentence and answer two questions.</p>
+      <p>The first question will ask you if the given phrase can be used to describe one of the event's temporal property (e.g. duration, frequency).</p>
+      <p>The second question will ask you if the given phrase is more likely to be true comparing to other potential answers within the same property.</p>
+    </short-summary>
+
+  </crowd-instructions>
+
+  <div>
+    <crowd-alert><p>${sentence}</p></crowd-alert>
+    
+  </div>
+
+  <div>
+    <p>Consider the event associated with <font color="red">${verb}</font>, can <font color="blue">${label}</font> be used to describe its ${dimension}?</p>
+    <crowd-radio-group><crowd-radio-button name="validation" value="yes">Yes</crowd-radio-button><br><crowd-radio-button name="validation_no" value="no">No</crowd-radio-button></crowd-radio-group>
+  </div>
+  
+   <div>
+    <p>Is <font color="blue">${label}</font> significantly more likely to be true, comparing to any other potential phrases to describe the event's ${dimension}?</p>
+    <p>Some other phrases to be considered: <font color="grey">${other_labels}</font></p>
+    <crowd-radio-group><crowd-radio-button name="likelihood" value="yes">Yes</crowd-radio-button><br><crowd-radio-button name="likelihood_no" value="no">No</crowd-radio-button></crowd-radio-group>
+  </div>
+
+</crowd-form>
