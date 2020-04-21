@@ -25,16 +25,23 @@ The training data is pre-generated and formatted.
 
 ### Experiments
 You can download pre-trained models in `models/` at [Google Drive](https://drive.google.com/drive/folders/1kx5Vc8iFYorWHrxHndkUzOssdeOm8oYC?usp=sharing) (0.4 G each), 
-or follow the training procedure in the previous section.
+or follow the training procedure in the previous section. 
+
+#### General Usage
+
+You can do many things with the model by just treating it as a set of transformer weights that fit exactly into a BERT-base model. Have an on-going project with BERT? Give it a try!
 
 #### Intrinsic Experiments
 
 #### TimeBank Experiment
 - By default this requires the epoch 2 model. 
-- run `run_timebank.sh` to produce evaluation results on 3 different seeds. They are by default stored under `eval_results`
+- run `eval_timebank.sh` to produce evaluation results on 3 different seeds. They are by default stored under `eval_results`
 - run `python scripts/eval_timebank.py` to see result interpretations.
 
 #### HiEVE Experiment
+- By default this requires the epoch 2 model. 
+- run `eval_hieve.sh` to produce eval results under `eval_results`
+- run `python scripts/eval_hieve.py` to see interpretations.
 
 #### MC-TACO Experiment
 See [MC-TACO](https://github.com/CogComp/MCTACO). 
