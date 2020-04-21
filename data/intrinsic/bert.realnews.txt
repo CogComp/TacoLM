@@ -1,0 +1,300 @@
+[CLS] i do n ##’ ##t know what kind of money they are paying to you , but i do n ##’ ##t know how you sleep in the [MASK] . [SEP]	29	6	6440 2851 11501 5027 3944 18406 2305 7090	2
+[CLS] the water splash park ’ ##s construction is expected to begin in [MASK] , due for completion by summer 2019 ##/ ##20 ##20 . [SEP]	13	3	2254 2337 2233 2258 2089 2238 2251 2257 2244 2255 2281 2285	4
+[CLS] i met in [MASK] tab ##ish p ##. on a cold day at the group home where he lives in gothenburg . [SEP]	4	1	2254 2337 2233 2258 2089 2238 2251 2257 2244 2255 2281 2285	4
+[CLS] first of all , it ’ ##s huge : more than 1 billion people use every [MASK] the platform . [SEP]	17	5	3823 2781 2847 2420 3134 2706 2086 5109 4693	1
+[CLS] i ' ve been using for 1 [MASK] the app now , and i ' ve not received any notification ##s . [SEP]	8	5	3823 2781 2847 2420 3134 2706 2086 5109 4693	0
+[CLS] prisoners escaped in the [MASK] through the tunnel . [SEP]	5	6	6440 2851 11501 5027 3944 18406 2305 7090	2
+[CLS] she ’ ##s still running a job and capable of handling patients and working every [MASK] . [SEP]	16	4	3823 2781 2847 2420 3134 2706 2086 5109 4693	1
+[CLS] and for us tough ##ies , as we were called , there was the outer part , which did n ##' ##t have heating and was in the [MASK] freezing cold . [SEP]	29	3	3500 2621 7114 3467	5
+[CLS] but you ’ ##re not a new yorker if you do n ##’ ##t wake in the [MASK] up and sometimes say f - ##- k this place . [SEP]	18	1	6440 2851 11501 5027 3944 18406 2305 7090	2
+[CLS] in fact , more than 1 ##, ##500 artists take every [MASK] the stage here . [SEP]	12	7	3823 2781 2847 2420 3134 2706 2086 5109 4693	1
+[CLS] , the protests dragged for 1 [MASK] on , complete with traffic tie - ups , van ##dal ##ism and violence . [SEP]	7	5	3823 2781 2847 2420 3134 2706 2086 5109 4693	0
+[CLS] they took every [MASK] 10 % of our goods , twice a week . [SEP]	4	4	3823 2781 2847 2420 3134 2706 2086 5109 4693	1
+[CLS] the economy would shrink at an annual rate of nearly 3 percent in the first half of next year and push in the [MASK] unemployment up to 9 ##. ##1 percent . [SEP]	24	2	3500 2621 7114 3467	5
+[CLS] and so , bill clinton from hot springs , arkansas , was in the [MASK] on his way to england . [SEP]	15	1	3500 2621 7114 3467	5
+[CLS] their employer , em ##power contracting , a subsidiary of the bin laden group , shut its operations , but for some of the employees , salaries had been for 1 [MASK] outstanding . [SEP]	32	6	3823 2781 2847 2420 3134 2706 2086 5109 4693	0
+[CLS] a source has revealed some of the 450 branches now currently shut could stay for 1 [MASK] closed . [SEP]	17	5	3823 2781 2847 2420 3134 2706 2086 5109 4693	0
+[CLS] you ’ ##re not only making every [MASK] photos , you ’ ##re managing a team , from the ground up , like a startup . [SEP]	8	4	3823 2781 2847 2420 3134 2706 2086 5109 4693	1
+[CLS] , the provincial government planned for 1 [MASK] to spent $ 15 ##. ##1 billion and health spending accounted for $ 5 ##. ##8 billion of that total . [SEP]	8	7	3823 2781 2847 2420 3134 2706 2086 5109 4693	0
+[CLS] the 2013 college football season kicked in [MASK] off with alabama , ohio state and oregon the early favorites to reach the bc ##s national championship game . [SEP]	8	7	2254 2337 2233 2258 2089 2238 2251 2257 2244 2255 2281 2285	4
+[CLS] the trial in ki ##shin ##ev of nine jews linked by the russian authorities to the alleged june , 1970 , sky ##jack ##ing attempt will begin in [MASK] , reliable jewish sources disclosed here today . [SEP]	29	5	2254 2337 2233 2258 2089 2238 2251 2257 2244 2255 2281 2285	4
+[CLS] una ##nn ##oun ##ced to the public , wall ##inger performed in the [MASK] the piece in 2004 between 10 pm and 1 am at the city ' ##s neue national ##gal ##erie . [SEP]	14	6	6440 2851 11501 5027 3944 18406 2305 7090	2
+[CLS] the movie opens in [MASK] in the u ##. ##s ##. . [SEP]	5	7	2254 2337 2233 2258 2089 2238 2251 2257 2244 2255 2281 2285	4
+[CLS] junior doctors have announced in [MASK] five days of strike action . [SEP]	6	9	2254 2337 2233 2258 2089 2238 2251 2257 2244 2255 2281 2285	4
+[CLS] apple unveiled in [MASK] its latest mac ##book pro line . [SEP]	4	9	2254 2337 2233 2258 2089 2238 2251 2257 2244 2255 2281 2285	4
+[CLS] today , export crops rot at checkpoint ##s while much - needed imports , including medicine and fuel , are regularly cut for 1 [MASK] off . [SEP]	25	5	3823 2781 2847 2420 3134 2706 2086 5109 4693	0
+[CLS] james ] always gets talked every [MASK] about , ” she said . " ##" [SEP]	7	4	3823 2781 2847 2420 3134 2706 2086 5109 4693	1
+[CLS] emily op ##ilo / the morning call ) capt ##ion voters around the lehigh valley talk about why they are voting on [MASK] . ( [SEP]	23	1	6928 9857 9317 9432 5958 5095 4465	3
+[CLS] sam ##mie ’ ##s friends received in the [MASK] over 70 cats . [SEP]	9	3	6440 2851 11501 5027 3944 18406 2305 7090	2
+[CLS] team " ##" a " ##" would host on [MASK] team " ##" b " ##" , with the winner hosting team " ##" c " ##" on tuesday . [SEP]	10	0	6928 9857 9317 9432 5958 5095 4465	3
+[CLS] clapton and win ##wood are taking in the [MASK] this show out on the road . [SEP]	9	1	3500 2621 7114 3467	5
+[CLS] winds calming tonight : after a gust ##y past 24 hours , winds will finally begin to relax in the [MASK] . [SEP]	21	4	6440 2851 11501 5027 3944 18406 2305 7090	2
+[CLS] traditionally , muslim rulers held to a commitment to launch every [MASK] a jihad at least once . [SEP]	12	7	3823 2781 2847 2420 3134 2706 2086 5109 4693	1
+[CLS] he lay in the [MASK] in terror listening to the persistent screaming from other detainees enduring their own interrogation ##s . [SEP]	5	6	6440 2851 11501 5027 3944 18406 2305 7090	2
+[CLS] and he was listening in the [MASK] to a world - band radio , and he heard this strange noise . [SEP]	7	6	6440 2851 11501 5027 3944 18406 2305 7090	2
+[CLS] miranda lambert and blake shelton have only been married for 1 [MASK] , but nevertheless , they get asked regularly when they ' ##re planning to expand their country brood with kids . [SEP]	12	6	3823 2781 2847 2420 3134 2706 2086 5109 4693	0
+[CLS] this is the country where they famously take in the [MASK] a si ##est ##a , eat late , go out drinking after midnight and dance until well beyond dawn . [SEP]	11	3	6440 2851 11501 5027 3944 18406 2305 7090	2
+[CLS] , julian ass ##ange announced in [MASK] he had them ; wi ##ki ##lea ##ks published them on july 22 . ) [SEP]	7	5	2254 2337 2233 2258 2089 2238 2251 2257 2244 2255 2281 2285	4
+[CLS] bill se ##z , i bought in [MASK] some favorite christmas specials for my kids with the idea they could watch them every year . [SEP]	8	11	2254 2337 2233 2258 2089 2238 2251 2257 2244 2255 2281 2285	4
+[CLS] i ’ m not eating every [MASK] , like , a p ##b ##& ##j , ” she says . “ [SEP]	7	4	3823 2781 2847 2420 3134 2706 2086 5109 4693	1
+[CLS] cops believe the two suspects may have followed the girl after she got in the [MASK] off a bus . [SEP]	16	3	6440 2851 11501 5027 3944 18406 2305 7090	2
+[CLS] , k ##lo ##ps ##on is seen for 1 [MASK] yanking the girl up and down , ripping off her jacket before dragging her off the bus . " ##" [SEP]	10	1	3823 2781 2847 2420 3134 2706 2086 5109 4693	0
+[CLS] the lafayette death star made in [MASK] its appearance , surely beating out all the other neighborhood houses in the halloween decoration department . [SEP]	7	9	2254 2337 2233 2258 2089 2238 2251 2257 2244 2255 2281 2285	4
+[CLS] when ste ##ffy questions her , hope points out it all leads back to she had in the [MASK] sex with her husband ’ ##s father . [SEP]	19	6	6440 2851 11501 5027 3944 18406 2305 7090	2
+[CLS] conway , sc - september 26 : trinity united methodist church is in ##unda ##ted by flood ##water ##s caused in [MASK] by hurricane florence near the crab ##tree swamp in conway , south carolina . [SEP]	22	8	2254 2337 2233 2258 2089 2238 2251 2257 2244 2255 2281 2285	4
+[CLS] getting an adult to sit for 1 [MASK] completely still is a challenge , but getting a wake ##ful baby to do so is near - impossible . [SEP]	8	1	3823 2781 2847 2420 3134 2706 2086 5109 4693	0
+[CLS] gigantic ##" ##" ##dis ##ney announced in [MASK] an adaptation of the classic fairy tale " ##" jack and the beans ##talk " ##" at the d ##23 expo . [SEP]	8	7	2254 2337 2233 2258 2089 2238 2251 2257 2244 2255 2281 2285	4
+[CLS] “ every day a new girl turns 18 , and a new girl wants every [MASK] to do porn . [SEP]	16	4	3823 2781 2847 2420 3134 2706 2086 5109 4693	1
+[CLS] it reached $ 25 ##. ##12 on october 24 , but recovered in [MASK] slightly to reach $ 32 ##. ##42 . [SEP]	14	2	2254 2337 2233 2258 2089 2238 2251 2257 2244 2255 2281 2285	4
+[CLS] a power failure meant that one - ninth of america ’ ##s nuclear arsenal went for 1 [MASK] off ##line , it emerged yesterday . [SEP]	18	2	3823 2781 2847 2420 3134 2706 2086 5109 4693	0
+[CLS] it all kicks in [MASK] off in dared ##ev ##il # 17 , the first chapter in a brand - new story arc ! [SEP]	5	1	2254 2337 2233 2258 2089 2238 2251 2257 2244 2255 2281 2285	4
+[CLS] even if we ’ ##re failing mis ##era ##bly , we do n ##’ ##t wake in the [MASK] up saying “ i ’ m going to blow it today ! ” [SEP]	19	1	6440 2851 11501 5027 3944 18406 2305 7090	2
+[CLS] will that influence any decisions that might be made in the [MASK] by grow ##ers here ? [SEP]	12	0	3500 2621 7114 3467	5
+[CLS] no longer was i thought “ talented ” or “ gifted ” because i could work for 1 [MASK] or read an 800 ##- ##page novel in a day . [SEP]	19	3	3823 2781 2847 2420 3134 2706 2086 5109 4693	0
+[CLS] he said police received on [MASK] a 911 call . [SEP]	6	4	6928 9857 9317 9432 5958 5095 4465	3
+[CLS] woo ##ga ’ ##s first social game , brain buddies , is free but they plan to release every [MASK] four games and will charge for virtual goods in games . [SEP]	20	7	3823 2781 2847 2420 3134 2706 2086 5109 4693	1
+[CLS] photo : ap a passenger plane flies in the [MASK] towards heath ##row airport in london . [SEP]	10	0	6440 2851 11501 5027 3944 18406 2305 7090	2
+[CLS] blanc ##h the other portion of ka ##le by adding for 1 [MASK] it to boiling water and transferring it to a bowl of ice water . [SEP]	13	1	3823 2781 2847 2420 3134 2706 2086 5109 4693	0
+[CLS] he explains that at new year ' ##s eve he always longed to be near water , to see " ##" a wave hitting in the [MASK] the shore . [SEP]	27	7	6440 2851 11501 5027 3944 18406 2305 7090	2
+[CLS] authorities have regained control of afghanistan ’ ##s most notorious prison after four days of riot ##ing allegedly sparked by al - q ##aid ##a and taliban convicts , a senior official said on [MASK] . [SEP]	35	2	6928 9857 9317 9432 5958 5095 4465	3
+[CLS] it has 11 verses , can run for 1 [MASK] and contains the line " ##" no one insults the image of the sun ! " ##" [SEP]	10	2	3823 2781 2847 2420 3134 2706 2086 5109 4693	0
+[CLS] , the chicago bears will be visiting on [MASK] the new york giants . [SEP]	9	6	6928 9857 9317 9432 5958 5095 4465	3
+[CLS] , people stared for 1 [MASK] at each other blankly . [SEP]	6	1	3823 2781 2847 2420 3134 2706 2086 5109 4693	0
+[CLS] x ##ad announced a $ 42 ##. ##5 million round last month ; pa ##xa ##ta raised $ 33 ##. ##5 million in october ; seattle - based zip ##w ##hip announced in [MASK] a $ 9 million round as well . [SEP]	34	9	2254 2337 2233 2258 2089 2238 2251 2257 2244 2255 2281 2285	4
+[CLS] it ' ##s the future that counts most , though , and , as with most investments , we ca n ##' ##t expect every [MASK] outstanding performances . [SEP]	26	7	3823 2781 2847 2420 3134 2706 2086 5109 4693	1
+[CLS] a fa ##q from gov ##. scott ’ ##s website , posted yesterday , reads “ the process to remove non - u ##. ##s ##. citizens from florida ’ ##s voter database actually began in the [MASK] . ” [SEP]	38	0	3500 2621 7114 3467	5
+[CLS] there are contests and games to relieve stress : riddle tuesday ##s , ( where teams dress on [MASK] in costumes ) , and raf ##fles . [SEP]	19	3	6928 9857 9317 9432 5958 5095 4465	3
+[CLS] a couple hundred of protesters led by service unions international union president andy stern , plan to gather in the [MASK] outside of goldman sachs ’ washington offices . [SEP]	21	1	6440 2851 11501 5027 3944 18406 2305 7090	2
+[CLS] the executive will final ##ise and formally recommend in [MASK] to full council their final budget proposals at a meeting . [SEP]	10	1	2254 2337 2233 2258 2089 2238 2251 2257 2244 2255 2281 2285	4
+[CLS] i knew i was in for an adventure when the airline called and woke in the [MASK] me up at two to tell me that my flights had changed . [SEP]	17	1	6440 2851 11501 5027 3944 18406 2305 7090	2
+[CLS] successful projects , like the ship - borne anti - submarine mortar called the squid , would go on to be used for 1 [MASK] by na ##vies . [SEP]	25	8	3823 2781 2847 2420 3134 2706 2086 5109 4693	0
+[CLS] as each leg is destroyed , the boss collapses for 1 [MASK] and reveals its most vulnerable spots . [SEP]	12	0	3823 2781 2847 2420 3134 2706 2086 5109 4693	0
+[CLS] he does n ##’ ##t owe her $ 54 ##. ##5 million to be paid in [MASK] . [SEP]	17	0	2254 2337 2233 2258 2089 2238 2251 2257 2244 2255 2281 2285	4
+[CLS] it was on [MASK] a cold day but the times got down to about 42 seconds , ” he said . “ [SEP]	4	5	6928 9857 9317 9432 5958 5095 4465	3
+[CLS] , china ' ##s f ##os ##un international < 06 ##56 ##. ##h ##k > snapped on [MASK] up english football club wolverhampton wanderers . [SEP]	18	3	6928 9857 9317 9432 5958 5095 4465	3
+[CLS] due to the burns i sustained in the attack , i can no longer stay for 1 [MASK] in the sun . [SEP]	18	3	3823 2781 2847 2420 3134 2706 2086 5109 4693	0
+[CLS] it has for 1 [MASK] electricity during the night and although mostly cold has running water , " ##" she wrote . " ##" [SEP]	5	3	3823 2781 2847 2420 3134 2706 2086 5109 4693	0
+[CLS] meanwhile , the restaurant also offers in the [MASK] live international music and dancing at the main restaurant . [SEP]	9	4	6440 2851 11501 5027 3944 18406 2305 7090	2
+[CLS] hotel breakfast ##s can be every [MASK] costly . [SEP]	7	4	3823 2781 2847 2420 3134 2706 2086 5109 4693	1
+[CLS] dunbar asked as he sat in the [MASK] on his porch . “ [SEP]	8	3	6440 2851 11501 5027 3944 18406 2305 7090	2
+[CLS] he took a couple of knocks at the weekend and given in the [MASK] his history , we looked at it from a welfare perspective . [SEP]	14	2	3500 2621 7114 3467	5
+[CLS] i ’ ve been married for 19 years and i ’ m working every [MASK] to be a better man for my family , seeking guidance along the way . [SEP]	15	4	3823 2781 2847 2420 3134 2706 2086 5109 4693	1
+[CLS] at the same time , thousands of plants are closed for planned maintenance , which is normally scheduled in the [MASK] . [SEP]	21	3	3500 2621 7114 3467	5
+[CLS] president obama has described for 1 [MASK] the go ##p as the " ##" party of no . ” [SEP]	7	6	3823 2781 2847 2420 3134 2706 2086 5109 4693	0
+[CLS] the best time to work on your laptop in a coffee shop seems to be , from about 8 to 10 ##: ##30 a ##. ##m ##. this is in the [MASK] a fairly quiet time of the day . [SEP]	32	1	6440 2851 11501 5027 3944 18406 2305 7090	2
+[CLS] million dollar baby ” wrapped in the [MASK] before going on to spoil the season for martin sc ##ors ##ese and “ the aviator , ” for instance . [SEP]	8	1	3500 2621 7114 3467	5
+[CLS] cardinal jorge mario berg ##og ##lio , archbishop of buenos aires , is elected in [MASK] . [SEP]	16	2	2254 2337 2233 2258 2089 2238 2251 2257 2244 2255 2281 2285	4
+[CLS] i have watched in [MASK] 95 episodes , so you can imagine how much time i have spent doing that . [SEP]	5	1	2254 2337 2233 2258 2089 2238 2251 2257 2244 2255 2281 2285	4
+[CLS] but … you know , when i put that together i knew it was n ##' ##t a coincidence that i spoke on [MASK] . [SEP]	24	6	6928 9857 9317 9432 5958 5095 4465	3
+[CLS] , a private organization with unique powers over world industry , trade and agriculture , issued in [MASK] a preliminary draft ruling on a three - year - old case . [SEP]	18	1	2254 2337 2233 2258 2089 2238 2251 2257 2244 2255 2281 2285	4
+[CLS] call for 1 [MASK] casino . [SEP]	4	3	3823 2781 2847 2420 3134 2706 2086 5109 4693	0
+[CLS] peyton manning became on [MASK] a world champion for the second time , but compared to other super bowl - winning quarterback ##s , his performance was down ##right lou ##sy . [SEP]	5	6	6928 9857 9317 9432 5958 5095 4465	3
+[CLS] cook for 1 [MASK] , then add the beans and stir to mix together . [SEP]	4	1	3823 2781 2847 2420 3134 2706 2086 5109 4693	0
+[CLS] this will allow owners of 2016 or 2017 mini vehicles to rent for 1 [MASK] out their vehicles on the reach ##now platform . [SEP]	15	4	3823 2781 2847 2420 3134 2706 2086 5109 4693	0
+[CLS] my how things have changed in the [MASK] to the ferguson summer . ” – [SEP]	8	0	3500 2621 7114 3467	5
+[CLS] national treasury employees union president colleen kelley sent le ##page a letter requesting on [MASK] an apology . [SEP]	15	1	6928 9857 9317 9432 5958 5095 4465	3
+[CLS] the strong low - pressure system developing over the gulf of mexico could move in the [MASK] into the d ##. ##c ##. area , bringing snowfall with it and affecting travel . [SEP]	17	6	6440 2851 11501 5027 3944 18406 2305 7090	2
+[CLS] as i write this the state department of transportation was planning to start in [MASK] its route 24 rep ##avi ##ng project , originally scheduled for may 14 . [SEP]	15	4	2254 2337 2233 2258 2089 2238 2251 2257 2244 2255 2281 2285	4
+[CLS] i participate every [MASK] in the professional rodeo . [SEP]	4	5	3823 2781 2847 2420 3134 2706 2086 5109 4693	1
+[CLS] a show at the de la war ##r pavilion in east sussex closes this week , but another , of his portfolio prints , starts in the [MASK] at du ##l ##wich picture gallery in london . [SEP]	28	1	3500 2621 7114 3467	5
+[CLS] my cousin went to school with her and he said she has n ##’ ##t been for 1 [MASK] there . [SEP]	19	6	3823 2781 2847 2420 3134 2706 2086 5109 4693	0
+[CLS] they come with a loaded in the [MASK] , sliding steel latch ##ed locking point and 2 steel chain locking points with re ##movable safety steps and benches . [SEP]	8	0	3500 2621 7114 3467	5
+[CLS] apple intends to finish in [MASK] out the last program and start on the new authorization . [SEP]	6	5	2254 2337 2233 2258 2089 2238 2251 2257 2244 2255 2281 2285	4
+[CLS] at no time did the ship lose power but there were in the [MASK] periodic interruption ##s to elevators and toilets for a few hours . [SEP]	14	6	6440 2851 11501 5027 3944 18406 2305 7090	2
+[CLS] the bears did get on [MASK] two interceptions from kyle fuller , but the bears secondary played a very sloppy game overall . [SEP]	6	6	6928 9857 9317 9432 5958 5095 4465	3
+[CLS] you can expect on [MASK] one major theme at facebook ' ##s f ##8 developer conference . [SEP]	5	2	6928 9857 9317 9432 5958 5095 4465	3
+[CLS] she was convicted on [MASK] in a civil trial and forced to turn over nine more cats she ’ ##d accumulated since july ; a trial on criminal charges of animal cruelty lies ahead . “ [SEP]	5	3	6928 9857 9317 9432 5958 5095 4465	3
+[CLS] they tied on [MASK] the knot at st paul ' ##s church in clifton . [SEP]	4	5	6928 9857 9317 9432 5958 5095 4465	3
+[CLS] the budget compromise funds in the [MASK] the government but does nothing to ave ##rt another debt ceiling stand ##off in late february or early march . [SEP]	7	2	3500 2621 7114 3467	5
+[CLS] you can vote every [MASK] online , so come back and vote often to be sure your artist wins . [SEP]	5	2	3823 2781 2847 2420 3134 2706 2086 5109 4693	1
+[CLS] they play in the [MASK] eastern conference - leading boston three time , . [SEP]	5	3	6440 2851 11501 5027 3944 18406 2305 7090	2
+[CLS] the work that it ’ ##s done has been extraordinary , ” she said in [MASK] “ [SEP]	16	2	2254 2337 2233 2258 2089 2238 2251 2257 2244 2255 2281 2285	4
+[CLS] to start for 1 [MASK] tighten that muscle then release . [SEP]	5	1	3823 2781 2847 2420 3134 2706 2086 5109 4693	0
+[CLS] eat every [MASK] and alternate meals and snacks so you never get too hungry to work effectively . [SEP]	3	3	3823 2781 2847 2420 3134 2706 2086 5109 4693	1
+[CLS] the commander began shouting for the officers to cease fire , but the fu ##sil ##lad ##e went for 1 [MASK] on . [SEP]	21	1	3823 2781 2847 2420 3134 2706 2086 5109 4693	0
+[CLS] , utilities would issue every [MASK] a request for proposals for qualifying renewable projects . [SEP]	6	6	3823 2781 2847 2420 3134 2706 2086 5109 4693	1
+[CLS] the solar - passive highly ins ##ulated design ensures in the [MASK] warmth . [SEP]	12	3	3500 2621 7114 3467	5
+[CLS] official newspapers were published on [MASK] with only black ink instead of the usual bright red or blue mast ##heads . [SEP]	6	5	6928 9857 9317 9432 5958 5095 4465	3
+[CLS] the crimson continued to pepper in the [MASK] ham ##ps ##ch with shots , outs ##hoot ##ing the eagles 17 to seven by the end of the night . [SEP]	8	6	6440 2851 11501 5027 3944 18406 2305 7090	2
+[CLS] four wild card weekend match ##ups await , beginning in the [MASK] with the texans meeting the colts for the third time this season . [SEP]	12	3	6440 2851 11501 5027 3944 18406 2305 7090	2
+[CLS] the government has a secret system – a machine – that spies every [MASK] on you . ” [SEP]	14	2	3823 2781 2847 2420 3134 2706 2086 5109 4693	1
+[CLS] , for instance , todd concluded on [MASK] his show by breaking down mike hu ##ck ##abe ##e ’ ##s prospects in the early primary states in the event of a presidential run in 2016 . [SEP]	8	4	6928 9857 9317 9432 5958 5095 4465	3
+[CLS] rene angel ##il , the husband of singer celine dion , died on [MASK] after a lengthy battle with cancer . [SEP]	14	3	6928 9857 9317 9432 5958 5095 4465	3
+[CLS] even if they shop every [MASK] , that would be great . [SEP]	6	5	3823 2781 2847 2420 3134 2706 2086 5109 4693	1
+[CLS] at his weekly press conference , john bo ##eh ##ner threw on [MASK] cold water on the idea of immigration reform happening this year . " ##" [SEP]	13	3	6928 9857 9317 9432 5958 5095 4465	3
+[CLS] he has been arrested every [MASK] , tortured and incarcerated . [SEP]	6	7	3823 2781 2847 2420 3134 2706 2086 5109 4693	1
+[CLS] 13 ) : byron bu ##xton hit on [MASK] his first career homer . [SEP]	9	6	6928 9857 9317 9432 5958 5095 4465	3
+[CLS] my sisters and i had bonded in the kitchen , spending visits preparing for 1 [MASK] elaborate dishes together . [SEP]	16	3	3823 2781 2847 2420 3134 2706 2086 5109 4693	0
+[CLS] but , leak ##age from these tanks forced in [MASK] te ##pc ##o to move their contents above - ground . [SEP]	10	3	2254 2337 2233 2258 2089 2238 2251 2257 2244 2255 2281 2285	4
+[CLS] temperatures this morning in the low 20s , and were expected to remain for 1 [MASK] that way , ms gold ##ing said . [SEP]	16	4	3823 2781 2847 2420 3134 2706 2086 5109 4693	0
+[CLS] 1 on last year ’ ##s fan index best college football town list , madison is in the [MASK] a giant party . [SEP]	19	2	3500 2621 7114 3467	5
+[CLS] at a high - profile event in los angeles , youtube unveiled on [MASK] red , its long - anticipated subscription service that allows subscribers to skip ads for $ 10 a month . [SEP]	14	2	6928 9857 9317 9432 5958 5095 4465	3
+[CLS] we just sat there and talked for 1 [MASK] about it , about what people saw , so the wives and husbands could understand everything . [SEP]	9	3	3823 2781 2847 2420 3134 2706 2086 5109 4693	0
+[CLS] freshman quarterback de ##' ##and ##re johnson was caught in [MASK] on a surveillance video punching a woman at another bar near campus . [SEP]	11	5	2254 2337 2233 2258 2089 2238 2251 2257 2244 2255 2281 2285	4
+[CLS] it was attacked for 1 [MASK] by multiple sort ##ies of torpedo , dive and b ##- ##17 bombers . [SEP]	6	4	3823 2781 2847 2420 3134 2706 2086 5109 4693	0
+[CLS] there have been in the [MASK] successful stage productions on campuses from trent university to western university . [SEP]	6	0	3500 2621 7114 3467	5
+[CLS] police remained for 1 [MASK] at the dormitory , the student paper reported . [SEP]	5	4	3823 2781 2847 2420 3134 2706 2086 5109 4693	0
+[CLS] however , in 2017 , from january to june , the commission met or made every [MASK] decisions . [SEP]	17	5	3823 2781 2847 2420 3134 2706 2086 5109 4693	1
+[CLS] roads in the area will be closed for 1 [MASK] for the ongoing investigation . [SEP]	10	3	3823 2781 2847 2420 3134 2706 2086 5109 4693	0
+[CLS] but after three consecutive wins , including away wins at tottenham and manchester city , what kind of reception will par ##de ##w receive on [MASK] when his side face liverpool ? [SEP]	26	5	6928 9857 9317 9432 5958 5095 4465	3
+[CLS] i make butter ##mi ##lk pancakes , eggs in a frame , and , we have for 1 [MASK] cr ##ep ##es thursday . [SEP]	19	8	3823 2781 2847 2420 3134 2706 2086 5109 4693	0
+[CLS] one - woman army ' sets out to save north highlands on stephen drive in north highlands , residents said on [MASK] they see all kinds of violence . [SEP]	22	1	6928 9857 9317 9432 5958 5095 4465	3
+[CLS] few television producers would have risked showing a det ##aine ##e chained for 1 [MASK] to an overhead bar , wearing nothing but a nap ##py . [SEP]	15	4	3823 2781 2847 2420 3134 2706 2086 5109 4693	0
+[CLS] it went in the [MASK] off ##line at 3 ##: ##0 ##5 a ##. ##m ##. . [SEP]	5	6	6440 2851 11501 5027 3944 18406 2305 7090	2
+[CLS] jacksonville , fl ##a ##. - the jacksonville jaguars defensive dominated on [MASK] the houston texans with a devastating pass rush . [SEP]	13	6	6928 9857 9317 9432 5958 5095 4465	3
+[CLS] american airlines will add in [MASK] a second daily flight for the holiday period , december 15 , 2017 . [SEP]	6	0	2254 2337 2233 2258 2089 2238 2251 2257 2244 2255 2281 2285	4
+[CLS] ice ages occur every [MASK] ; the last one finished only about 16 ##, ##00 ##0 years ago . [SEP]	5	7	3823 2781 2847 2420 3134 2706 2086 5109 4693	1
+[CLS] if you ’ ve been inside all day , your mel ##aton ##in levels , which normally rise in the [MASK] , remain low , inhibit ##ing dr ##ows ##iness . [SEP]	21	4	6440 2851 11501 5027 3944 18406 2305 7090	2
+[CLS] radio shack will un ##roll 300 stores within blockbuster outlets starting in the [MASK] . [SEP]	14	1	3500 2621 7114 3467	5
+[CLS] the storm will move in the [MASK] off the east coast , the national weather service said , but the mercury wo n ##' ##t rise above freezing until friday . [SEP]	7	3	6440 2851 11501 5027 3944 18406 2305 7090	2
+[CLS] , playwright ken urban was playing in the [MASK] keyboards in a band with some old college friends , and one night he invited them to his kendall square apartment . “ [SEP]	9	3	3500 2621 7114 3467	5
+[CLS] terry mcc ##lu ##re , 26 , had been arrested on [MASK] in connection with a may 1 shooting on willow lane that critically injured two people , according to fairfield police . [SEP]	12	3	6928 9857 9317 9432 5958 5095 4465	3
+[CLS] , south carolina governor mark sanford vanished in [MASK] for six days . [SEP]	9	5	2254 2337 2233 2258 2089 2238 2251 2257 2244 2255 2281 2285	4
+[CLS] the team have come in the [MASK] out and done what they do best which is be res ##ili ##ent . [SEP]	7	3	6440 2851 11501 5027 3944 18406 2305 7090	2
+[CLS] it seems like the only team willing to give in the [MASK] him a contract is the lakers . [SEP]	12	1	3500 2621 7114 3467	5
+[CLS] you are only making every [MASK] this worse for yourself , and worse for this child . [SEP]	6	0	3823 2781 2847 2420 3134 2706 2086 5109 4693	1
+[CLS] exports to china surged in [MASK] 17 ##. ##9 percent from a year earlier , on higher demand for chemicals , electrical and electronic products . [SEP]	6	0	2254 2337 2233 2258 2089 2238 2251 2257 2244 2255 2281 2285	4
+[CLS] the moment you stop checking for 1 [MASK] your mirrors , your score is dropping below 30 , ” says craig campbell , ma ##ven ’ ##s vice president for sales and marketing . “ [SEP]	8	1	3823 2781 2847 2420 3134 2706 2086 5109 4693	0
+[CLS] you seemed to be taking in the [MASK] it all in stride . [SEP]	8	1	6440 2851 11501 5027 3944 18406 2305 7090	2
+[CLS] in contrast , amazon ’ ##s beautiful boy — which also opened on [MASK] and did about one - sixth of go ##s ##nell ’ ##s business this weekend — got 70 reviews at rotten tomatoes . [SEP]	14	4	6928 9857 9317 9432 5958 5095 4465	3
+[CLS] the militant kurdistan freedom falcons , or tak , considered an offs ##hoot of the p ##kk , claimed on [MASK] responsibility . [SEP]	21	4	6928 9857 9317 9432 5958 5095 4465	3
+[CLS] right now , every time we get lightning within a 20 - 30 mile radius our picture goes for 1 [MASK] away . [SEP]	21	0	3823 2781 2847 2420 3134 2706 2086 5109 4693	0
+[CLS] their milk , too , rich in nutrients , can sustain for 1 [MASK] a no ##mad when there is very little else is available . [SEP]	14	6	3823 2781 2847 2420 3134 2706 2086 5109 4693	0
+[CLS] they ' ve got 86 metric tons of fuel , they are going to go for 1 [MASK] easily . " ##" [SEP]	18	3	3823 2781 2847 2420 3134 2706 2086 5109 4693	0
+[CLS] after warnings , he was arrested in the [MASK] and accused of making contact with the enemy by sending letters to his mother and brother . [SEP]	9	1	3500 2621 7114 3467	5
+[CLS] south korea stopped in [MASK] earlier broadcasts after it agreed with p ##yon ##gy ##ang in late august on a package of measures aimed at easing an ##imo ##sities . [SEP]	5	7	2254 2337 2233 2258 2089 2238 2251 2257 2244 2255 2281 2285	4
+[CLS] once hot , add the squash cube ##s and mir ##ep ##oi ##x vegetables and cook over a brisk heat , stirring every [MASK] , until lightly coloured . [SEP]	24	1	3823 2781 2847 2420 3134 2706 2086 5109 4693	1
+[CLS] , you have in the [MASK] the sunshine , the chi ##rp ##ing of the birds , and the flowers . [SEP]	6	0	3500 2621 7114 3467	5
+[CLS] stocks closed on [MASK] with modest gains as health care stocks gained after the latest deal in the industry was announced . [SEP]	4	2	6928 9857 9317 9432 5958 5095 4465	3
+[CLS] politics is not at the top of most california ##ns ’ minds when they wake in the [MASK] up . [SEP]	18	1	6440 2851 11501 5027 3944 18406 2305 7090	2
+[CLS] , men ’ ##s artistic director kim jones was in the [MASK] in his design studio text ##ing drake . “ [SEP]	12	0	3500 2621 7114 3467	5
+[CLS] steve tam ##ar of the surf ##ride ##r foundation of ri ##nco ##n demonstrates how he takes samples to test in the [MASK] water quality . ( [SEP]	23	0	3500 2621 7114 3467	5
+[CLS] including encore ##s , he played for 1 [MASK] . [SEP]	9	2	3823 2781 2847 2420 3134 2706 2086 5109 4693	0
+[CLS] , new york city ’ ##s correction department responded on [MASK] by demo ##ting rose ag ##ro , warden of the mental health unit where mu ##rdo ##ugh died , citing “ systemic management problems . ” [SEP]	11	2	6928 9857 9317 9432 5958 5095 4465	3
+[CLS] she said she wanted the horse eu ##than ##ized because its quality of life was so poor because of deteriorating eyes ##ight and bad teeth and she contacted a horse dealer to take in [MASK] it . [SEP]	35	1	2254 2337 2233 2258 2089 2238 2251 2257 2244 2255 2281 2285	4
+[CLS] on thursday night , facebook experienced a major worldwide out ##age that lasted for 1 [MASK] , in some cases , . [SEP]	16	2	3823 2781 2847 2420 3134 2706 2086 5109 4693	0
+[CLS] the house of representatives , where obama is likely to get a rough ##er ride , begins on [MASK] its del ##ibe ##rations with a public hearing . [SEP]	19	2	6928 9857 9317 9432 5958 5095 4465	3
+[CLS] we were for 1 [MASK] just in the neighborhood , ” he said . “ [SEP]	5	1	3823 2781 2847 2420 3134 2706 2086 5109 4693	0
+[CLS] it ’ ##s like being a priest , really , because you work so hard , you work every [MASK] , it hurts like crazy and you make no money . [SEP]	20	4	3823 2781 2847 2420 3134 2706 2086 5109 4693	1
+[CLS] the first product to emerge from this effort will be the " ##" webster , " ##" a code name for a sleek pc coming in the [MASK] , which the company showed off this week . [SEP]	28	2	3500 2621 7114 3467	5
+[CLS] we departed in the [MASK] birmingham for the alabama coastal bird ##fest with high expectations and not an ink ##ling about the storm lurking off the gulf coast . [SEP]	5	2	3500 2621 7114 3467	5
+[CLS] by one measure of heating demand , boston was in [MASK] 4 percent chill ##ier than the same month last year , according to the national weather service . [SEP]	11	0	2254 2337 2233 2258 2089 2238 2251 2257 2244 2255 2281 2285	4
+[CLS] but this will occur in the [MASK] . [SEP]	7	3	6440 2851 11501 5027 3944 18406 2305 7090	2
+[CLS] their piper chieftain last made on [MASK] radio contact just before 6 pm . [SEP]	7	4	6928 9857 9317 9432 5958 5095 4465	3
+[CLS] , he says , he ' ##ll get in the [MASK] back on his snow ##mobile and go high marking , but with a different outlook . [SEP]	11	3	3500 2621 7114 3467	5
+[CLS] but she was so badly burned that she had to stay for 1 [MASK] at the shrine ##rs hospital for children in cincinnati for a series of surge ##ries and skin graf ##ts . [SEP]	14	6	3823 2781 2847 2420 3134 2706 2086 5109 4693	0
+[CLS] he happened to be working for 1 [MASK] past his court - mandated cu ##rf ##ew . [SEP]	8	2	3823 2781 2847 2420 3134 2706 2086 5109 4693	0
+[CLS] it is believed to have been behind an ambush north of the town of bam ##a in which the nigerian army reportedly lost in [MASK] 13 out of 16 vehicles . [SEP]	25	6	2254 2337 2233 2258 2089 2238 2251 2257 2244 2255 2281 2285	4
+[CLS] , walk every [MASK] the halls to get your blood flowing . [SEP]	4	2	3823 2781 2847 2420 3134 2706 2086 5109 4693	1
+[CLS] uk ##iah mayor maureen mu ##l ##her ##en hosted on [MASK] a brains ##torm ##ing meeting for first friday art walk , at her downtown office . [SEP]	11	4	6928 9857 9317 9432 5958 5095 4465	3
+[CLS] it earlier slipped below platinum after reaching every [MASK] price par ##ity last week . ( [SEP]	9	8	3823 2781 2847 2420 3134 2706 2086 5109 4693	1
+[CLS] we had a chance to present every [MASK] to john deer ##e and next week i ’ ##ll be going to new zealand to launch a prototype team at an engineering firm there . [SEP]	8	6	3823 2781 2847 2420 3134 2706 2086 5109 4693	1
+[CLS] we did n ##’ ##t hear for 1 [MASK] from him . [SEP]	9	5	3823 2781 2847 2420 3134 2706 2086 5109 4693	0
+[CLS] how these guys work in the [MASK] could have an impact on how hard the rangers have to work at the end of spring . [SEP]	7	0	3500 2621 7114 3467	5
+[CLS] if you ’ ##re planning in the [MASK] a holiday to europe you might be wondering if the exchange rate is going to improve or ultimately get worse . [SEP]	8	3	3500 2621 7114 3467	5
+[CLS] although progress will be slow , , customers at most of the state ’ ##s gas stations will be in the [MASK] able to duck into their cars to get out of the cold . [SEP]	22	3	3500 2621 7114 3467	5
+[CLS] i interviewed in the [MASK] one : he said “ i loved to go bowling . [SEP]	5	1	6440 2851 11501 5027 3944 18406 2305 7090	2
+[CLS] , a statement from the mayor ’ ##s office cited bad weather and an ominous forecast , and said on [MASK] the choice to move the festivities to wednesday was made with the patriots . [SEP]	21	0	6928 9857 9317 9432 5958 5095 4465	3
+[CLS] you can start looking in the early evening and then view in the [MASK] them . [SEP]	14	6	6440 2851 11501 5027 3944 18406 2305 7090	2
+[CLS] lunch hour begins in the [MASK] promptly , but you find that locals may ask you to show up at 11 ##: ##45 a ##. ##m ##. “ to beat the crowds . ” [SEP]	6	2	6440 2851 11501 5027 3944 18406 2305 7090	2
+[CLS] wyoming senate candidate liz cheney ( r ) is once again seeking to emphasize her family ' ##s roots in the state in a new tv ad released on [MASK] . [SEP]	30	0	6928 9857 9317 9432 5958 5095 4465	3
+[CLS] it aids groups , including nonprofit ##s that serve low - income women and children in the washington area , focusing every [MASK] on a specific theme . [SEP]	23	7	3823 2781 2847 2420 3134 2706 2086 5109 4693	1
+[CLS] could he be abd ##uc ##ting his victims during the summer , then di ##sp ##osing of their corpses in , when few people are in the [MASK] around ? [SEP]	28	3	3500 2621 7114 3467	5
+[CLS] , i went in [MASK] without eating for five days at the door of the white house as part of a hunger strike to urge president obama to act on immigration . [SEP]	5	3	2254 2337 2233 2258 2089 2238 2251 2257 2244 2255 2281 2285	4
+[CLS] it released in the [MASK] a power bi embedded azure service . [SEP]	5	1	3500 2621 7114 3467	5
+[CLS] roads in the area will be for 1 [MASK] closed for the ongoing investigation . [SEP]	9	3	3823 2781 2847 2420 3134 2706 2086 5109 4693	0
+[CLS] borders is opening every [MASK] a new super ##stor ##e . [SEP]	5	5	3823 2781 2847 2420 3134 2706 2086 5109 4693	1
+[CLS] file photo taken when he was in [MASK] the ass ##t . [SEP]	8	7	2254 2337 2233 2258 2089 2238 2251 2257 2244 2255 2281 2285	4
+[CLS] you can vote every [MASK] until this showdown ends on wednesday at 8 ##am et , so come back and vote often to be sure your artist wins . [SEP]	5	2	3823 2781 2847 2420 3134 2706 2086 5109 4693	1
+[CLS] he struck out seven and walked every [MASK] two . [SEP]	8	2	3823 2781 2847 2420 3134 2706 2086 5109 4693	1
+[CLS] only four un ##see ##ded teams advanced into saturday ’ ##s second round , with most ranked teams surviving for 1 [MASK] . [SEP]	22	4	3823 2781 2847 2420 3134 2706 2086 5109 4693	0
+[CLS] almost three quarters reported not making enough income to meet every [MASK] their basic needs . [SEP]	12	5	3823 2781 2847 2420 3134 2706 2086 5109 4693	1
+[CLS] , despite the heat and humidity , she has felt in the [MASK] better . [SEP]	13	1	3500 2621 7114 3467	5
+[CLS] i ' ##d spend my mornings looking for work , and , i ' ##d ride in the [MASK] my motorcycle up to see you — the smell of wild ##flower ##s filling little tu ##jun ##ga canyon . [SEP]	19	3	6440 2851 11501 5027 3944 18406 2305 7090	2
+[CLS] , he made two appearances and allowed in the [MASK] two homer ##s and two walks in one total inning of work and did n ##' ##t appear in an exhibition after march 1 . [SEP]	10	0	3500 2621 7114 3467	5
+[CLS] cook for 1 [MASK] over a low heat until golden brown . [SEP]	4	1	3823 2781 2847 2420 3134 2706 2086 5109 4693	0
+[CLS] elizabeth thomas had said she was going for 1 [MASK] away , but that someone should call police if she was n ##' ##t home by evening , a relative told h ##ln earlier . [SEP]	10	4	3823 2781 2847 2420 3134 2706 2086 5109 4693	0
+[CLS] we trek for 1 [MASK] and being outdoors is good , but i ' ##d still rather be at home on my own . [SEP]	5	3	3823 2781 2847 2420 3134 2706 2086 5109 4693	0
+[CLS] , the nr ##o director was in [MASK] keith r ##. hall , who had headed the agency since 1996 . [SEP]	8	8	2254 2337 2233 2258 2089 2238 2251 2257 2244 2255 2281 2285	4
+[CLS] golden gate park is often called the west coast ’ ##s central park , only larger , more beautiful and likely safer to walk in the [MASK] through . [SEP]	27	5	6440 2851 11501 5027 3944 18406 2305 7090	2
+[CLS] she explored to the southeast of rt 64 , then returned in the [MASK] to south lake . [SEP]	14	3	6440 2851 11501 5027 3944 18406 2305 7090	2
+[CLS] now i ' m not much of a camp ##er but i ' ##ll gladly fish in the [MASK] a river till dusk . [SEP]	19	0	6440 2851 11501 5027 3944 18406 2305 7090	2
+[CLS] deposed in [MASK] by an army - led coup with all the ear ##marks of being made - in - washington . [SEP]	3	8	2254 2337 2233 2258 2089 2238 2251 2257 2244 2255 2281 2285	4
+[CLS] mary ( ohio ) basketball player le ##bron james poses on [MASK] for a photographer , in beverly hills , cal ##if ##. st ##. vincent - st . [SEP]	12	4	6928 9857 9317 9432 5958 5095 4465	3
+[CLS] however , , celebrations appeared in the [MASK] to have passed off peacefully . [SEP]	8	7	6440 2851 11501 5027 3944 18406 2305 7090	2
+[CLS] and made for 1 [MASK] the hollywood pageant seem bizarre ##ly intimate . [SEP]	5	1	3823 2781 2847 2420 3134 2706 2086 5109 4693	0
+[CLS] they will host on [MASK] the ne ##fl division championship game , at ram ##er field in river falls . [SEP]	5	5	6928 9857 9317 9432 5958 5095 4465	3
+[CLS] at the wedding , which will be in the [MASK] " ##" somewhere hot " ##" , " ##" the boys will be my best men , " ##" revealed jeff . " ##" [SEP]	10	1	3500 2621 7114 3467	5
+[CLS] when res ##er ##vis ##ts were called up for the persian gulf war or for peacekeeping duties in the balkans or the sinai , they were never kept for 1 [MASK] on duty . [SEP]	31	6	3823 2781 2847 2420 3134 2706 2086 5109 4693	0
+[CLS] , she wrote every [MASK] checks to pay for small services such as yard work . [SEP]	5	6	3823 2781 2847 2420 3134 2706 2086 5109 4693	1
+[CLS] i can wake up at 7 a ##. ##m ##. , grab my phone , and count on it to keep for 1 [MASK] a charge , until 7 p ##. ##m ##. the following night . [SEP]	24	4	3823 2781 2847 2420 3134 2706 2086 5109 4693	0
+[CLS] also they ’ ##re tiny so it ’ ##s going to be for 1 [MASK] cramped for three of us . [SEP]	15	5	3823 2781 2847 2420 3134 2706 2086 5109 4693	0
+[CLS] hi ##ei sank in the [MASK] with a loss of 188 of her crew . [SEP]	6	4	6440 2851 11501 5027 3944 18406 2305 7090	2
+[CLS] , the amateur astronomers association of new york lets in the [MASK] pass ##ers ##by star ##ga ##ze with its high - powered telescopes . [SEP]	12	5	6440 2851 11501 5027 3944 18406 2305 7090	2
+[CLS] spraying in the [MASK] the foliage , , risks disease . [SEP]	4	5	6440 2851 11501 5027 3944 18406 2305 7090	2
+[CLS] hold for 1 [MASK] , then lower hips back down to return to plank position . [SEP]	4	0	3823 2781 2847 2420 3134 2706 2086 5109 4693	0
+[CLS] that would suggest our ancestors used to get considerably more sleep , particularly in when the nights are in the [MASK] longer , than we now do . [SEP]	21	3	3500 2621 7114 3467	5
+[CLS] tv ##sz can produce every [MASK] a wheels ##et and complete a wagon every 24 minutes . [SEP]	6	1	3823 2781 2847 2420 3134 2706 2086 5109 4693	1
+[CLS] many modern fitness tracker ##s , for instance , are built to encourage wear ##ers to get every [MASK] up and move . [SEP]	19	2	3823 2781 2847 2420 3134 2706 2086 5109 4693	1
+[CLS] the landowner has a piece of ge ##fi ##lt ##e fish and then a try ##st with a prostitute and then leaves in the [MASK] without paying . [SEP]	25	0	6440 2851 11501 5027 3944 18406 2305 7090	2
+[CLS] students must either be in a four - year accredited college or university this fall , or plan to attend in the [MASK] . [SEP]	23	2	3500 2621 7114 3467	5
+[CLS] tsar ##nae ##v began failing in the [MASK] his college classes , during his second year . [SEP]	8	2	3500 2621 7114 3467	5
+[CLS] there were in the [MASK] about 30 of us , running around a park . [SEP]	5	7	6440 2851 11501 5027 3944 18406 2305 7090	2
+[CLS] people live in these segment ##ed societies , within cities , and think : “ wow , i always have this thing that ’ ##s giving every [MASK] me feedback about myself . ” [SEP]	28	0	3823 2781 2847 2420 3134 2706 2086 5109 4693	1
+[CLS] she launched in the [MASK] her own line of stretch ##y t - shirts and cam ##iso ##les that can be worn under today ' ##s most revealing clothes . [SEP]	5	2	3500 2621 7114 3467	5
+[CLS] seeing a dynamic composition , or extreme emotion on someone ’ ##s face : images like that engage for 1 [MASK] us , but then we pass on . [SEP]	21	0	3823 2781 2847 2420 3134 2706 2086 5109 4693	0
+[CLS] the grapes are harvested by hand , and , they ’ ##re tasted in the [MASK] , sorted and aged in french oak barrels for 18 months . [SEP]	16	2	3500 2621 7114 3467	5
+[CLS] a year ago , he lifted some travel restrictions , allowing many americans to travel every [MASK] there . [SEP]	17	8	3823 2781 2847 2420 3134 2706 2086 5109 4693	1
+[CLS] it will be interesting to re - examine the work in completion with the second part of everything not saved will be lost , which will be released in the [MASK] . [SEP]	31	2	3500 2621 7114 3467	5
+[CLS] the big versions , filled with pear branches , seeded eucalyptus and dried flowers , would look in the [MASK] great ( martha ##ste ##wart ##. ##com ) . [SEP]	20	3	3500 2621 7114 3467	5
+[CLS] guaranteed entry before 10 p ##. ##m ##. but just because the music ’ ##s t ##wang ##y does n ##’ ##t mean there ca n ##’ ##t be in the [MASK] compliment ##ary champagne . [SEP]	32	7	6440 2851 11501 5027 3944 18406 2305 7090	2
+[CLS] the bags fully in ##fl ##ate in just 0 ##. ##0 ##5 seconds and remain for 1 [MASK] inflated , then def ##late after 25 seconds . [SEP]	18	0	3823 2781 2847 2420 3134 2706 2086 5109 4693	0
+[CLS] hold for 1 [MASK] your breath then ex ##hale slowly . [SEP]	4	0	3823 2781 2847 2420 3134 2706 2086 5109 4693	0
+[CLS] according to lewis ##on , his is the fastest burst camera app in the app store , allowing iphone 5 ##s users to capture every [MASK] 25 max - resolution photos . [SEP]	26	0	3823 2781 2847 2420 3134 2706 2086 5109 4693	1
+[CLS] it ’ ##s stored in the [MASK] inside and comes out every summer . [SEP]	7	3	3500 2621 7114 3467	5
+[CLS] , two civic - minded fellows named mark ritchie and nate ga ##rvis were doing in the [MASK] lunch . [SEP]	18	3	3500 2621 7114 3467	5
+[CLS] , the american phil ##ate ##lic society holds every [MASK] its biggest stamp show , the american international phil ##ate ##lic exhibition , or am ##eri ##pe ##x . [SEP]	10	8	3823 2781 2847 2420 3134 2706 2086 5109 4693	1
+[CLS] , the upper ##most part of this star pattern is grazing in the [MASK] the northern horizon . [SEP]	14	5	6440 2851 11501 5027 3944 18406 2305 7090	2
+[CLS] but you got to understand something : jews do n ##’ ##t do in the [MASK] comedy . [SEP]	16	3	3500 2621 7114 3467	5
+[CLS] just join in the [MASK] the bromley ski & snow ##board school in their newly sculpted terrain based learning zone for free ! [SEP]	5	3	3500 2621 7114 3467	5
+[CLS] we ' ve had in the [MASK] educational computer games . [SEP]	7	0	6440 2851 11501 5027 3944 18406 2305 7090	2
+[CLS] featuring a huge brick fireplace ( which will be fired in the [MASK] up ) , the 1912 ##- ##era building is one of the oldest in the area . [SEP]	13	3	3500 2621 7114 3467	5
+[CLS] but on the other hand , a pair of shoes sells every [MASK] on e ##bay . [SEP]	13	0	3823 2781 2847 2420 3134 2706 2086 5109 4693	1
+[CLS] most days she gets in the [MASK] up to navigate the 12 ##- ##ho ##ur - plus time difference between her home country and press requests across europe and america . [SEP]	7	0	6440 2851 11501 5027 3944 18406 2305 7090	2
+[CLS] they fan in the [MASK] out into the city ’ ##s empty offices to clean the toilets , sweep the floors and empty the bin ##s . [SEP]	5	5	6440 2851 11501 5027 3944 18406 2305 7090	2
+[CLS] it flashed for 1 [MASK] bright green as it fell and appeared to split up . [SEP]	5	0	3823 2781 2847 2420 3134 2706 2086 5109 4693	0
+[CLS] if the title did n ##’ ##t give it away , the fact we stop every [MASK] our comparisons for a dumb joke should have . [SEP]	17	0	3823 2781 2847 2420 3134 2706 2086 5109 4693	1
+[CLS] shout legions of young men – " ##" freedom fighters " ##" they call themselves – as they march in the [MASK] through the mist - sh ##roud ##ed valleys to add to the rebels ' numbers . [SEP]	22	0	6440 2851 11501 5027 3944 18406 2305 7090	2
+[CLS] so se ##di ##ki ##des and wild ##sch ##ut are happily presented in the [MASK] with a new co ##hort of the homes ##ick and the displaced to help them with their research . [SEP]	15	2	3500 2621 7114 3467	5
+[CLS] it will switch every [MASK] between the two probe ##s and will even flash at you if the temperature of the hard drive gets to be higher than 45 degrees ce ##ls ##ius . [SEP]	5	0	3823 2781 2847 2420 3134 2706 2086 5109 4693	1
+[CLS] speed is worked out by measuring how fast data can be transferred every [MASK] . [SEP]	14	0	3823 2781 2847 2420 3134 2706 2086 5109 4693	1
+[CLS] rain mixed in the [MASK] with wet snow . [SEP]	5	2	6440 2851 11501 5027 3944 18406 2305 7090	2
+[CLS] i might not be wrong to say that most of us even do not offer every [MASK] prayers . [SEP]	17	3	3823 2781 2847 2420 3134 2706 2086 5109 4693	1
+[CLS] this license needs every [MASK] renew ##ing , which is why the data is currently inaccessible . [SEP]	5	6	3823 2781 2847 2420 3134 2706 2086 5109 4693	1
+[CLS] i ask every [MASK] . [SEP]	4	6	3823 2781 2847 2420 3134 2706 2086 5109 4693	1
+[CLS] we do n ##' ##t post just to post ; however , we have found that posting every [MASK] increases engagement without paying . [SEP]	19	3	3823 2781 2847 2420 3134 2706 2086 5109 4693	1
+[CLS] and for us tough ##ies , as we were called , there was the outer part , which did n ##' ##t have heating and was freezing in the [MASK] cold . [SEP]	30	3	3500 2621 7114 3467	5
+[CLS] i just loved the process of getting in the [MASK] a rough cut around friday , getting a fine cut saturday afternoon and getting a final cut saturday night . [SEP]	10	7	6440 2851 11501 5027 3944 18406 2305 7090	2
+[CLS] prayers are made every [MASK] , facing the sun . [SEP]	5	3	3823 2781 2847 2420 3134 2706 2086 5109 4693	1
+[CLS] so i ' m not sure what to do with these guys — they bet every [MASK] , but have n ##' ##t called since saturday . [SEP]	17	3	3823 2781 2847 2420 3134 2706 2086 5109 4693	1
+[CLS] a large wood tile fire takes pride of place , to keep in the [MASK] you warm . [SEP]	15	3	3500 2621 7114 3467	5
+[CLS] keep it in mind if you ’ ##re planning to ski in the [MASK] with kids or even adult begin ##ners at the beaver creek . [SEP]	14	3	3500 2621 7114 3467	5
+[CLS] ideally , drivers should check every [MASK] their mirrors . [SEP]	7	1	3823 2781 2847 2420 3134 2706 2086 5109 4693	1
+[CLS] they have every [MASK] steel funnel ##s shoved down their throat ##s ; an aug ##er is turned ; and they are force fed . [SEP]	4	3	3823 2781 2847 2420 3134 2706 2086 5109 4693	1
+[CLS] , we generally had in the [MASK] better snow ##pack , with lower levels of avalanche danger . " ##" [SEP]	7	3	3500 2621 7114 3467	5
+[CLS] this one - time in - app purchase in angry birds en ##titles unlimited use , although it is worth noting that the mighty eagle can only be used every [MASK] . [SEP]	31	2	3823 2781 2847 2420 3134 2706 2086 5109 4693	1
+[CLS] the former was robert plant , whose g ##las ##ton ##bury performance was exciting enough even on tv , but whose two shows in the [MASK] at the round ##house in london were as ##tou ##nding . [SEP]	26	2	3500 2621 7114 3467	5
+[CLS] , he lost in the [MASK] his temper with margaret after she insisted on accompanying him on a skiing trip . ‘ [SEP]	6	3	3500 2621 7114 3467	5
+[CLS] she was due to take in the [MASK] up a place at oxford university to read english literature . [SEP]	8	2	3500 2621 7114 3467	5
+[CLS] the patients were surveyed every [MASK] with follow - up assessments . [SEP]	6	6	3823 2781 2847 2420 3134 2706 2086 5109 4693	1
+[CLS] without fail , she stood to attention and smiled politely at the ju ##ror ##s as they entered every [MASK] and exited . [SEP]	20	3	3823 2781 2847 2420 3134 2706 2086 5109 4693	1
+[CLS] voting will conclude in the [MASK] on september 18 . [SEP]	6	2	6440 2851 11501 5027 3944 18406 2305 7090	2
+[CLS] my commission as secretary of state will terminate in the [MASK] . [SEP]	11	7	6440 2851 11501 5027 3944 18406 2305 7090	2
+[CLS] frederick ' ##s 4th offers a full day of bath ##tub races , music and a pet ##ting zoo and pony rides for kids before fireworks begin in the [MASK] . [SEP]	30	5	6440 2851 11501 5027 3944 18406 2305 7090	2
+[CLS] the red cross is involved every [MASK] in food aid in the uk . [SEP]	7	0	3823 2781 2847 2420 3134 2706 2086 5109 4693	1
+[CLS] , the agents saw in the [MASK] a woman and a man who looked like o ##’ ##lea ##ry leave . [SEP]	7	2	6440 2851 11501 5027 3944 18406 2305 7090	2
+[CLS] if you get every [MASK] high , you can easily spend $ 300 a month for the privilege . [SEP]	5	3	3823 2781 2847 2420 3134 2706 2086 5109 4693	1
+[CLS] during the race it allows thomson to get every [MASK] meaningful re ##m sleep in just twenty minutes . " ##" [SEP]	10	3	3823 2781 2847 2420 3134 2706 2086 5109 4693	1
+[CLS] to help prevent blood cl ##ots from forming , try to avoid sitting still by standing and moving every [MASK] around . [SEP]	20	2	3823 2781 2847 2420 3134 2706 2086 5109 4693	1
+[CLS] th ##ig ##pen , 23 , was last seen in the [MASK] wearing a black t - shirt , k ##hak ##i shorts and sneakers , authorities said . [SEP]	12	7	6440 2851 11501 5027 3944 18406 2305 7090	2
+[CLS] they do n ##’ ##t feel the need to talk every [MASK] , as they are n ##’ ##t wired to chat 24 ##/ ##7 . [SEP]	12	2	3823 2781 2847 2420 3134 2706 2086 5109 4693	1

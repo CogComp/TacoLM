@@ -556,15 +556,24 @@ def main():
         for key in mm_total:
             mm_total[key] /= mm_count[key]
 
-        print(mm_total)
+        f_out = open("eval_results/intrinsic.txt", "a+")
 
-        f_out = open("tmp_out.txt", "a+")
-        ordered_list = []
+        f_out.write("===MODEL-{}===DATA-{}===".format(args.bert_model, args.data_dir) + "\n")
         for key in range(0, 6):
             if key not in mm_total:
                 break
-            ordered_list.append(str(mm_total[key]))
-        f_out.write("\t".join(ordered_list) + "\n")
+            if key == 0:
+                f_out.write("Duration: {}\n".format(str(mm_total[key])))
+            if key == 1:
+                f_out.write("Frequency: {}\n".format(str(mm_total[key])))
+            if key == 2:
+                f_out.write("Typical Day: {}\n".format(str(mm_total[key])))
+            if key == 3:
+                f_out.write("Typical Week: {}\n".format(str(mm_total[key])))
+            if key == 4:
+                f_out.write("Typical Month: {}\n".format(str(mm_total[key])))
+            if key == 5:
+                f_out.write("Typical Season: {}\n".format(str(mm_total[key])))
 
 if __name__ == "__main__":
     main()

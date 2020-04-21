@@ -21,6 +21,7 @@ scripts/boundary_processor.py
 scripts/conceptnet_processor.py
 scripts/crowdsource_processor.py
 scripts/embeddings_util.py
+scripts/eval_hieve.py
 scripts/eval_timebank.py
 scripts/evaluator.py
 scripts/hieve_processor.py
