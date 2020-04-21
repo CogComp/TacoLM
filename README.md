@@ -21,7 +21,7 @@ The script is set to default parameters and will export the model to `models/`. 
 The training process will generate one directory to store the loss logs, as well as `NUM_EPOCH` directories for each epoch's model.
 You will need to add BERT's `vocab.txt` to the epoch directories for evaluation. See more detail in the next section on pre-trained models.
 
-The training data is pre-generated and formatted.
+The training data is pre-generated and formatted. More details [here](pattern_extraction.md).
 
 ### Experiments
 You can download pre-trained models in `models/` at [Google Drive](https://drive.google.com/drive/folders/1kx5Vc8iFYorWHrxHndkUzOssdeOm8oYC?usp=sharing) (0.4 G each), 

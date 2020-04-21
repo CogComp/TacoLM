@@ -36,7 +36,7 @@ from tqdm import tqdm, trange
 from torch.nn import CrossEntropyLoss
 
 from pytorch_pretrained_bert.file_utils import PYTORCH_PRETRAINED_BERT_CACHE
-from pytorch_pretrained_bert.modeling import TemporalModelJointNew, HieveModel, TemporalModelJointNewPureTransformer, BertConfig, WEIGHTS_NAME, CONFIG_NAME
+from pytorch_pretrained_bert.modeling import HieveModel, BertConfig, WEIGHTS_NAME, CONFIG_NAME
 from pytorch_pretrained_bert.tokenization import BertTokenizer, BasicTokenizer
 from pytorch_pretrained_bert.optimization import BertAdam, warmup_linear
 
