@@ -1,4 +1,6 @@
 # TacoLM
+***T***empor***A***l ***CO***mmon Sense ***L***anguage ***M***odel
+
 A variation of BERT that is aware of temporal common sense.
 
 ## Introduction
