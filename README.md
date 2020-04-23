@@ -1,4 +1,4 @@
-# TCS-Bert
+# TacoLM
 A variation of BERT that is aware of temporal common sense.
 
 ## Introduction
@@ -14,7 +14,7 @@ Here are some things you can do with this package out of the box.
 
 ### Train the main model 
 - Access and download `data/tmp_seq_data` at [Google Drive](https://drive.google.com/drive/folders/1kx5Vc8iFYorWHrxHndkUzOssdeOm8oYC?usp=sharing) (4.6 G)
-- run `sh train_tcs_bert.sh`
+- run `sh train_taco_lm.sh`
 
 The script is set to default parameters and will export the model to `models/`. You can configure differently by editing the script.
 
@@ -48,7 +48,7 @@ The intrinsic evaluation relies on pre-formatted data.
 #### MC-TACO Experiment
 See [MC-TACO](https://github.com/CogComp/MCTACO). 
 - use the augmented data under `data/mctaco-tcs`
-- use the transformer weights of `tcs_bert_epoch_2`
+- use the transformer weights of `taco_lm_epoch_2`
 
 ## Citation
 See the following paper: 

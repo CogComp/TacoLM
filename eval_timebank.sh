@@ -6,7 +6,7 @@ python examples/run_hieve.py \
   --do_train \
   --do_eval \
   --data_dir data/timebank \
-  --bert_model models/tcs_bert_epoch_2 \
+  --bert_model models/taco_lm_epoch_2 \
   --max_seq_length 128 \
   --train_batch_size 32 \
   --learning_rate 5e-5 \
@@ -20,7 +20,7 @@ python examples/run_hieve.py \
   --do_train \
   --do_eval \
   --data_dir data/timebank \
-  --bert_model models/tcs_bert_epoch_2 \
+  --bert_model models/taco_lm_epoch_2 \
   --max_seq_length 128 \
   --train_batch_size 32 \
   --learning_rate 5e-5 \
@@ -34,7 +34,7 @@ python examples/run_hieve.py \
   --do_train \
   --do_eval \
   --data_dir data/timebank \
-  --bert_model models/tcs_bert_epoch_2 \
+  --bert_model models/taco_lm_epoch_2 \
   --max_seq_length 128 \
   --train_batch_size 32 \
   --learning_rate 5e-5 \

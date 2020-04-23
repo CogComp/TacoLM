@@ -32,7 +32,7 @@ python examples/run_tmp_seq_eval.py \
   --do_eval \
   --do_lower_case \
   --data_dir data/intrinsic/model.realnews.txt \
-  --bert_model models/tcs_bert_epoch_3  \
+  --bert_model models/taco_lm_epoch_3  \
   --max_seq_length 128 \
   --train_batch_size 32 \
   --learning_rate 2e-5 \
@@ -45,7 +45,7 @@ python examples/run_tmp_seq_eval.py \
   --do_eval \
   --do_lower_case \
   --data_dir data/intrinsic/model.udstmp.txt \
-  --bert_model models/tcs_bert_epoch_3 \
+  --bert_model models/taco_lm_epoch_3 \
   --max_seq_length 128 \
   --train_batch_size 32 \
   --learning_rate 2e-5 \
