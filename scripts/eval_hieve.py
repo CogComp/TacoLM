@@ -1,6 +1,7 @@
 import math
 import numpy as np
 
+
 def evaluator(test_file, prediction_file):
     ref_lines = [x.strip() for x in open(test_file).readlines()]
     logit_lines = [x.strip() for x in open(prediction_file).readlines()]
@@ -76,7 +77,7 @@ def evaluator(test_file, prediction_file):
 
 
 for i in range(1, 4):
-    print("TCS-BERT SEED " + str(i))
+    print("TacoLM SEED " + str(i))
     evaluator("data/hieve/test.formatted.txt", "eval_results/hieve_{}/bert_outputs.txt".format(str(i)))
 
 for i in range(1, 4):

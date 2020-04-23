@@ -61,7 +61,7 @@ def evaluator_timebank(test_file, prediction_file):
 
 
 for i in range(1, 4):
-    print("TCS-BERT SEED " + str(i))
+    print("TacoLM SEED " + str(i))
     evaluator_timebank("data/timebank/test.formatted.txt", "eval_results/timebank_{}/bert_outputs.txt".format(str(i)))
 
 for i in range(1, 4):
