@@ -4,7 +4,7 @@
 A variation of BERT that is aware of temporal common sense.
 
 ## Introduction
-This is the code repository for our ACL 2020 paper [Temporal Common Sense Acquisition with Minimal Supervision](https://arxiv.org/pdf/2005.04304.pdf).
+This is the code repository for our ACL 2020 paper [Temporal Common Sense Acquisition with Minimal Supervision](http://cogcomp.org/page/publication_view/904).
 This package is built upon [huggingface/transformers](https://github.com/huggingface/transformers) at its April 2019 version. 
 
 ## Installation
